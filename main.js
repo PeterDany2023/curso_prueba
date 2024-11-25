@@ -1,5 +1,6 @@
 console.log('Hola mundo!');
 
-var a =1;
-var b =2;
-console.log(a+b);
+const nombre ="Pedro";
+console.log('Hola ${nombre}');
+
+console.log("Hola mundo");
